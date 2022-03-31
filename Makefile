@@ -1,4 +1,4 @@
-PROG = lab02
+PROG = lab05
 OBJS = scan.o
 DEBUG = -g
 
